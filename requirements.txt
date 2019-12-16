@@ -3,5 +3,5 @@ pytorch-transformers==1.1.0
 rise==5.5.1
 markovify==0.7.2
 Keras==2.2.4
-tensorflow==1.14.0
+tensorflow==1.15.0
 spacy==2.1.8
