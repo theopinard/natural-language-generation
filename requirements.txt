@@ -1,4 +1,4 @@
-notebook==6.0.0
+notebook==6.1.5
 pytorch-transformers==1.1.0
 rise==5.5.1
 markovify==0.7.2
